@@ -7,12 +7,10 @@ public class ArrayList1 {
         ArrayList<String> list=new ArrayList<String>();
         list.add("aman");
         list.add("maurya");
+        list.add("College:NIET");
+        list.add("Year:third");              
         System.out.println(list);
         list.add("yoyo");
         System.out.println(list);
-//        iterator itr=list.iterator();
-
     }
-
-
 }
